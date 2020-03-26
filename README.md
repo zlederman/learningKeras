@@ -1,2 +1,2 @@
 # learningKeras
-I am learning keras...
+Learning from Chollet's deep learning book
